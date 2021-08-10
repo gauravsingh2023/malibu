@@ -223,7 +223,7 @@ require_once('config.php');
          </p>
      <div class="icons">   
         <a href="" class="icon-fill" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>
-         <a href="" class="icon-fill" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
+         <a href="https://www.instagram.com/malibu_hotels2021/" class="icon-fill" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
          <a href="" class="icon-fill" target="_blank"><i class="fa fa-facebook fa-3x"></i></a>
         </div>
         </div>
@@ -246,7 +246,7 @@ require_once('config.php');
       <div class="icons">   
        <h4>let's connect</h4>
         <a href="" class="icon-fill" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>
-         <a href="" class="icon-fill" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
+         <a href="https://www.instagram.com/malibu_hotels2021/" class="icon-fill" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
          <a href="" class="icon-fill" target="_blank"><i class="fa fa-facebook fa-3x"></i></a>
         </div>
     </footer>
